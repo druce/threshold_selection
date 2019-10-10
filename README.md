@@ -1,7 +1,6 @@
 # threshold_selection
 Threshold selection visualizations with isocurves
 
-First Header | Second Header
 ------------ | -------------
-F1-score ![F1](fig96645188@2X.png) | Linear Cost ![F1]() 
-Distance from top left / Circular Isocurves ![F1]()  | Mutual Information ![F1]() 
+F1-score ![F1](fig96645188@2X.png) | Linear Cost ![Linear](fig16583647@2X.png) 
+Distance from top left / Circular Isocurves ![Circular](fig59529366@2X.png) | Mutual Information ![Mutual Info](fig25596247@2X.png) 
